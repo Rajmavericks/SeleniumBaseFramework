@@ -91,6 +91,7 @@ maven-compiler-plugin/
 maven-metadata.xml
 maven-metadata-local.xml
 .maven-classpath
+reports/
 
 *.versionsBackup
 maven-eclipse.xml
@@ -130,7 +131,7 @@ local.properties
 .project
 .externalToolBuilders/
 *.launch
-
+*.html
 .classpath
 .factorypath
 .buildpath
