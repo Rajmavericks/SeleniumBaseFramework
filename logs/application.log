@@ -65,3 +65,9 @@
 2026-05-03 18:48:31 [main] INFO  Log - Adding Credentials
 2026-05-03 18:48:31 [main] INFO  Log - Verify the login Scenario
 2026-05-03 18:48:44 [main] INFO  Log - Closing the Browser
+2026-05-03 19:27:34 [main] INFO  Log - Starting webdriver
+2026-05-03 19:27:35 [main] INFO  Log - Navigate to URL...
+2026-05-03 19:27:40 [main] INFO  Log - Starting Loging Test
+2026-05-03 19:27:40 [main] INFO  Log - Adding Credentials
+2026-05-03 19:27:53 [main] INFO  Log - Verify the login Scenario
+2026-05-03 19:27:53 [main] INFO  Log - Closing the Browser
