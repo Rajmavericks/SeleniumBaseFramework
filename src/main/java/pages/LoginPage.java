@@ -7,9 +7,9 @@ public class LoginPage {
 	
 	private WebDriver driver;
 	
-	private By userIdfield= By.id("Email");
-	private By passwordfield = By.id("Password");
-	private By LoginBtn=By.cssSelector("button[type='submit']");
+	private By userIdfield= By.cssSelector("input[data-qa='login-email']");
+	private By passwordfield = By.cssSelector("input[placeholder='Password']");
+	private By LoginBtn=By.cssSelector("button[data-qa='login-button']");
 	
 	public LoginPage(WebDriver driver) {
 		this.driver=driver;

@@ -4,3 +4,58 @@
 2026-05-03 16:28:04 [main] INFO  Log - Adding Credentials
 2026-05-03 16:28:04 [main] INFO  Log - Verify the login Scenario
 2026-05-03 16:28:05 [main] INFO  Log - Closing the Browser
+2026-05-03 17:38:11 [main] INFO  Log - Starting webdriver
+2026-05-03 17:38:13 [main] INFO  Log - Navigate to URL...
+2026-05-03 17:38:14 [main] INFO  Log - Starting Loging Test
+2026-05-03 17:38:14 [main] INFO  Log - Adding Credentials
+2026-05-03 17:38:14 [main] INFO  Log - Closing the Browser
+2026-05-03 17:38:23 [main] INFO  Log - Starting webdriver
+2026-05-03 17:38:24 [main] INFO  Log - Navigate to URL...
+2026-05-03 17:38:25 [main] INFO  Log - Starting Loging Test
+2026-05-03 17:38:25 [main] INFO  Log - Adding Credentials
+2026-05-03 17:38:25 [main] INFO  Log - Closing the Browser
+2026-05-03 17:40:47 [main] INFO  Log - Starting webdriver
+2026-05-03 17:40:49 [main] INFO  Log - Navigate to URL...
+2026-05-03 17:40:54 [main] INFO  Log - Starting Loging Test
+2026-05-03 17:40:54 [main] INFO  Log - Adding Credentials
+2026-05-03 17:40:54 [main] INFO  Log - Closing the Browser
+2026-05-03 17:41:13 [main] INFO  Log - Starting webdriver
+2026-05-03 17:41:15 [main] INFO  Log - Navigate to URL...
+2026-05-03 17:41:25 [main] INFO  Log - Starting Loging Test
+2026-05-03 17:41:25 [main] INFO  Log - Adding Credentials
+2026-05-03 17:41:25 [main] INFO  Log - Closing the Browser
+2026-05-03 17:41:52 [main] INFO  Log - Starting webdriver
+2026-05-03 17:41:53 [main] INFO  Log - Navigate to URL...
+2026-05-03 17:42:08 [main] INFO  Log - Starting Loging Test
+2026-05-03 17:42:08 [main] INFO  Log - Adding Credentials
+2026-05-03 17:42:09 [main] INFO  Log - Closing the Browser
+2026-05-03 17:47:19 [main] INFO  Log - Starting webdriver
+2026-05-03 17:47:20 [main] INFO  Log - Navigate to URL...
+2026-05-03 17:47:37 [main] INFO  Log - Starting Loging Test
+2026-05-03 17:47:37 [main] INFO  Log - Adding Credentials
+2026-05-03 17:47:40 [main] INFO  Log - Verify the login Scenario
+2026-05-03 17:47:40 [main] INFO  Log - Closing the Browser
+2026-05-03 17:58:15 [main] INFO  Log - Starting webdriver
+2026-05-03 17:58:17 [main] INFO  Log - Navigate to URL...
+2026-05-03 17:58:19 [main] INFO  Log - Starting Loging Test
+2026-05-03 17:58:19 [main] INFO  Log - Adding Credentials
+2026-05-03 17:58:21 [main] INFO  Log - Verify the login Scenario
+2026-05-03 17:58:22 [main] INFO  Log - Closing the Browser
+2026-05-03 18:00:29 [main] INFO  Log - Starting webdriver
+2026-05-03 18:00:30 [main] INFO  Log - Navigate to URL...
+2026-05-03 18:00:33 [main] INFO  Log - Starting Loging Test
+2026-05-03 18:00:33 [main] INFO  Log - Adding Credentials
+2026-05-03 18:00:37 [main] INFO  Log - Verify the login Scenario
+2026-05-03 18:00:37 [main] INFO  Log - Closing the Browser
+2026-05-03 18:03:20 [main] INFO  Log - Starting webdriver
+2026-05-03 18:03:21 [main] INFO  Log - Navigate to URL...
+2026-05-03 18:03:24 [main] INFO  Log - Starting Loging Test
+2026-05-03 18:03:24 [main] INFO  Log - Adding Credentials
+2026-05-03 18:03:29 [main] INFO  Log - Verify the login Scenario
+2026-05-03 18:03:29 [main] INFO  Log - Closing the Browser
+2026-05-03 18:03:29 [main] INFO  Log - Starting webdriver
+2026-05-03 18:03:30 [main] INFO  Log - Navigate to URL...
+2026-05-03 18:03:35 [main] INFO  Log - Starting Loging Test
+2026-05-03 18:03:35 [main] INFO  Log - Adding Credentials
+2026-05-03 18:03:50 [main] INFO  Log - Verify the login Scenario
+2026-05-03 18:03:50 [main] INFO  Log - Closing the Browser
