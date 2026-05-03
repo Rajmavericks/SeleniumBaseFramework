@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-05-03T14:17:10 IST" name="LoginSuite" finished-at="2026-05-03T14:17:14 IST" duration-ms="3367">
+  <suite started-at="2026-05-03T16:28:01 IST" name="Default suite" finished-at="2026-05-03T16:28:05 IST" duration-ms="4050">
     <groups>
     </groups>
-    <test started-at="2026-05-03T14:17:10 IST" name="LoginTests" finished-at="2026-05-03T14:17:14 IST" duration-ms="3367">
+    <test started-at="2026-05-03T16:28:01 IST" name="Default test" finished-at="2026-05-03T16:28:05 IST" duration-ms="4050">
       <class name="tests.LoginTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:tests.LoginTest@6fe7aac8]" started-at="2026-05-03T14:17:10 IST" name="setup" finished-at="2026-05-03T14:17:13 IST" duration-ms="2469" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.LoginTest@6580cfdd]" started-at="2026-05-03T16:28:01 IST" name="setup" finished-at="2026-05-03T16:28:04 IST" duration-ms="3167" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testValidLogin()[pri:0, instance:tests.LoginTest@6fe7aac8]" started-at="2026-05-03T14:17:13 IST" name="testValidLogin" finished-at="2026-05-03T14:17:14 IST" duration-ms="655" status="PASS">
+        <test-method signature="testValidLogin()[pri:0, instance:tests.LoginTest@6580cfdd]" started-at="2026-05-03T16:28:04 IST" name="testValidLogin" finished-at="2026-05-03T16:28:05 IST" duration-ms="685" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testValidLogin -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginTest@6fe7aac8]" started-at="2026-05-03T14:17:14 IST" name="tearDown" finished-at="2026-05-03T14:17:14 IST" duration-ms="205" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginTest@6580cfdd]" started-at="2026-05-03T16:28:05 IST" name="tearDown" finished-at="2026-05-03T16:28:05 IST" duration-ms="167" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- tests.LoginTest -->
-    </test> <!-- LoginTests -->
-  </suite> <!-- LoginSuite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
